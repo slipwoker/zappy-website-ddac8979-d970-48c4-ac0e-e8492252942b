@@ -1,0 +1,61 @@
+# טרוול 360 — Generative Engine Optimization Map
+
+> A תיירות ונסיעות business.
+
+---
+
+## Pages
+
+### בית
+https://360-ddac8979.zappy5.app
+גלו חופשה במאוריציוס יוקרתית עם טרוול 360. סוכנות תיירות מובילה המתמחה ביעדים אקזוטיים, חבילות נופש סיישל וחופשות ירח דבש בלתי נשכחות.
+
+### שירותים
+https://360-ddac8979.zappy5.app/services
+גלו את מגוון השירותים של טרוול 360 - חופשה במאוריציוס יוקרתית, חבילות נופש סיישל, יעדים אקזוטיים לירח דבש והרפתקאות בלתי נשכחות.
+
+### אודות
+https://360-ddac8979.zappy5.app/about
+הכירו את טרוול 360 - סוכנות תיירות מובילה המתמחה בחופשה במאוריציוס, חבילות נופש סיישל ויעדים אקזוטיים לירח דבש. הסיפור שלנו, הערכים שלנו והמומחיות שלנו.
+
+### צור קשר
+https://360-ddac8979.zappy5.app/contact
+צרו קשר עם טרוול 360 לתכנון חופשה במאוריציוס, חבילות נופש סיישל או יעדים אקזוטיים לירח דבש. הצוות המקצועי שלנו ממתין לכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://360-ddac8979.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://360-ddac8979.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://360-ddac8979.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טרוול 360
+טרוול 360 is a business in the תיירות ונסיעות industry.
+
+## Target Audience
+- תיירים יוקרתיים
+- מחפשי הרפתקאות
+- מתכנני חופשות משפחתיות
+- זוגות בירח דבש
+- חוקרי תרבות
+
+## Industry
+תיירות ונסיעות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://360-ddac8979.zappy5.app/sitemap.xml
+- **Robots.txt**: https://360-ddac8979.zappy5.app/robots.txt
